@@ -23,8 +23,8 @@ author: Luiz Leite Oliveira
 author_bio: Hi, my name is Luiz Leite. This is the site where I share some things
 author_email: "xp.luiz@gmail.com"
 author_location: Brazil
-author_website_url: "http://johndoe.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+author_website_url: "https://luizleite-hotmart.github.io/pages/#/"
+typewrite-text: Hi I'm Luiz and this is my website where I share stuff!!
 
 author_work_experiences:
             - company_name: Hotmart
