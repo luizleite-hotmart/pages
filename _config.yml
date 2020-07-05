@@ -13,8 +13,6 @@ urls:
       url: /blog
     - text: Contact Me
       url : /contact
-    - text: Get Started
-      url: /get-started
 
 # Edit these details
 
@@ -40,12 +38,12 @@ author_work_experiences:
               description: Over the years in Eteg I worked with a lot of different system the main projects are from FHEMIG which I work on the payment system of them
               visibility: true
 
-#author_education_details:
-#              - college_logo: dcc_logo_2.jpg
-#                college_name: DCC - UFMG
-#                college_url: https://www.dcc.ufmg.br/dcc/
-#                visibility: true
-#
+author_education_details:
+              - college_logo: dcc_logo_2.jpg
+                college_name: DCC - UFMG
+                college_url: https://www.dcc.ufmg.br/dcc/
+                visibility: true
+
 #author_project_details:
 #              - project_thumbnail: gamershub.png
 #                project_title: Gamers Hub
