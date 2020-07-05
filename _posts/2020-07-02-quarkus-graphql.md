@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Grapqhl on Quarkus"
-summary: Hello World ! This is a sample post
+summary: How to Use GraphQl on Quarkus
 author: Luiz Leite
 date: '2020-07-02 14:35:23 +0530'
-category: Java; 
+category: Java
 thumbnail: /assets/img/posts/code.jpg
 ---
 
